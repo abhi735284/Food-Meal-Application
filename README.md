@@ -36,3 +36,25 @@ The app makes healthy eating simple, fun, and organized.
 ```bash
 git clone https://github.com/<your-username>/meal-app.git
 cd meal-app
+
+If you are the project owner and already have the code, just open your project folder.
+
+###2. Install Dependencies
+'''bash
+npm install
+This installs required packages like:
+
+react, react-dom – core frontend libraries
+
+react-router-dom – routing
+
+axios – API requests
+
+bootstrap – UI styling
+
+dotenv – environment variable management
+3. Run the App (Web Prototype)
+npm start
+
+By default, the app runs on 👉 http://localhost:3000
+.
